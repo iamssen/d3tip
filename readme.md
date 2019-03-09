@@ -28,3 +28,9 @@ d3.select('#button')
 - `distance?: number`
 - `target?: string = 'pointer' | 'element'`
 - `position?: string|(d?:any, i?:number, nodes?:Node[]) => string = 'left' | 'right' | 'top' | 'bottom' | 'topLeft' | 'topRight' | 'bottomLeft' | 'bottomRight'`
+
+----------
+
+# Archive
+
+- [ ] 나중에 Graphics 작업을 할때 분명 다시 필요해질 가능성이 있음. React 등과 결합해서 다시 만들 필요가 있음. 기반하고 있는 작동 Code들은 정리해서 옮길 필요가 있음.
